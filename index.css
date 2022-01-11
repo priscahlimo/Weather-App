@@ -1,0 +1,20 @@
+.row {
+    display: flex;
+}
+
+.one {
+    border: 2px solid blue;
+}
+
+#cityR {
+    font-size: 40px;
+}
+
+p {
+    color: blue;
+
+}
+
+#temp {
+    font-size: 24px;
+}
